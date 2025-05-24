@@ -18,8 +18,7 @@ Build a Minimal Curated Design Gallery Website
 
 ## 🔗 Links  
 - **GitHub Repository:** [https://github.com/YashpalLohan/Minimal-Curated-Design-Gallery-Website](https://github.com/YashpalLohan/Minimal-Curated-Design-Gallery-Website)  
-- **Live Demo:** [https://minimal-curated-design-gallery-website.vercel.app/](https://minimal-curated-design-gallery-website.vercel.app/)  
-- **Loom Video Walkthrough:** [Paste Loom link here]
+- **Live Demo:** [https://minimal-curated-design-gallery-website.vercel.app/](https://minimal-curated-design-gallery-website.vercel.app/)
 
 ---
 
