@@ -1,12 +1,62 @@
-# React + Vite
+# Minimal Curated Design Gallery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📁 Submission Document – Summer Internship 2025  
+**MA Studio 🟡🔵 – Development Intern Task**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Task Title  
+Build a Minimal Curated Design Gallery Website
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 Submitted By  
+**Name:** Yashpal  
+**Email:** yashpal.2024@nst.rishihood.edu.in  
+
+---
+
+## 🔗 Links  
+- **GitHub Repository:** [https://github.com/YashpalLohan/Minimal-Curated-Design-Gallery-Website](https://github.com/YashpalLohan/Minimal-Curated-Design-Gallery-Website)  
+- **Live Demo:** [https://minimal-curated-design-gallery-website.vercel.app/](https://minimal-curated-design-gallery-website.vercel.app/)  
+- **Loom Video Walkthrough:** [Paste Loom link here]
+
+---
+
+## ⚙️ Tech Stack Used  
+- React.js  
+- Tailwind CSS  
+
+---
+
+## ✅ Features Implemented  
+- Responsive homepage design  
+- Curated design entries with title, image, designer name, and external link  
+- Smooth hover interactions including zoom effects, tooltips, and title animations  
+- Filtering of designs by category for easy browsing  
+
+---
+
+## 📄 Project Overview  
+This project is a minimal and curated design gallery website showcasing various design works. It is built to be fully responsive and visually appealing, making use of React.js for dynamic rendering and Tailwind CSS for styling.
+
+The gallery presents design entries with relevant information, allowing users to filter designs by categories and explore the designers' work through external links.
+
+---
+
+## 🚀 How to Run Locally  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/YashpalLohan/Minimal-Curated-Design-Gallery-Website.git
+
+2. Navigate to the project folder
+cd Minimal-Curated-Design-Gallery-Website
+
+3. Install dependencies
+npm install
+
+4. Start the development server
+npm start
+
+
+5. Open http://localhost:3000 in your browser to view the app.
